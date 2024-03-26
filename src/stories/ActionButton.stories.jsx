@@ -1,6 +1,7 @@
-import ActionButton from '../components/ActionButton';
+import React from 'react';
 import { fn } from '@storybook/test';
 import { FaPencilAlt, FaChartBar } from 'react-icons/fa';
+import ActionButton from '../components/ActionButton';
 
 export default {
   title: 'ActionButton',
