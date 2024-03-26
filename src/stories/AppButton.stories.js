@@ -1,5 +1,5 @@
-import AppButton from '../components/AppButton';
 import { fn } from '@storybook/test';
+import AppButton from '../components/AppButton';
 
 export default {
   title: 'AppButton',
