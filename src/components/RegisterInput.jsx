@@ -57,7 +57,7 @@ function RegisterInput({ register }) {
       />
       <AppButton
         title="Register"
-        label="Register"
+        label="Regist"
         type="dark"
         onClick={onSubmitHandler}
       />
