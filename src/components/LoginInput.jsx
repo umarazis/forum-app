@@ -33,7 +33,7 @@ function LoginInput({ login }) {
       />
       <AppButton
         title="Login"
-        label="Logi"
+        label="Login"
         type="dark"
         onClick={onSubmitHandler}
       />
